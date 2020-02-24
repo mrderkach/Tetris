@@ -1,0 +1,10 @@
+highscores = [(125, 'Den'),
+    (120, ' Den'),
+    (100, 'Computer'),
+    (90, 'Computer'),
+    (80, 'Computer'),
+    (70, 'Computer'),
+    (65, 'debbie'),
+    (60, 'Computer'),
+    (50, 'Computer'),
+    (45, 'Computer')]
